@@ -1,11 +1,12 @@
 ﻿using UnityEngine;
 using System.Collections.Generic;
 
-[System.Serializable]
-public class Wave
+[CreateAssetMenu(fileName = "New Wave", menuName = "SpawnSystem/Wave")]
+public class Wave : ScriptableObject
 {
     public string Name = "Wave";
 
-    [SerializeField] private int _numberInSequence;
-    [SerializeField] private List<Subwave> _subwaves;
+    public int NumberInSequence;
+    public List<Subwave> Subwaves;
+    public List<float> DelayBeforeSpawnSubwave;
 }

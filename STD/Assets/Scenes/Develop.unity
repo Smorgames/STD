@@ -1524,15 +1524,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e18b81a2831e36346969185ebfd853f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _spawnRate: 0
-  _waves:
-  - Name: Wave
-    _numberInSequence: 0
-    _subwaves:
-    - Name: Subwave
-      _enemy: {fileID: 0}
-      _amount: 0
-      _spawnRate: 0
+  _spawnRateBetweenWaves: 0
+  _waves: []
 --- !u!4 &1708415983
 Transform:
   m_ObjectHideFlags: 0

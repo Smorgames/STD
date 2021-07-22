@@ -1,11 +1,13 @@
 ﻿using UnityEngine;
 
-[System.Serializable]
-public class Subwave
+[CreateAssetMenu(fileName = "New Subwave", menuName = "SpawnSystem/Subwave")]
+public class Subwave : ScriptableObject
 {
     public string Name = "Subwave";
 
-    [SerializeField] private GameObject _enemy;
-    [SerializeField] private int _amount;
-    [SerializeField] private float _spawnRate;
+    public int NumberInSequence;
+
+    public GameObject Enemy;
+    public int EnemyAmount;
+    public float DelayBeforeSpawnEnemy;
 }
