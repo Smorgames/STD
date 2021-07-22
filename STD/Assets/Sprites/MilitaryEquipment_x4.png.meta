@@ -1,0 +1,740 @@
+fileFormatVersion: 2
+guid: 1c64f34ba0df557458b72cfd726e9cc3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4340030382340793728
+    second: MilitaryEquipment_x4_0
+  - first:
+      213: 8960459199803979836
+    second: MilitaryEquipment_x4_1
+  - first:
+      213: -2105580779472445145
+    second: MilitaryEquipment_x4_2
+  - first:
+      213: 2774017300862571861
+    second: MilitaryEquipment_x4_3
+  - first:
+      213: 8106633620119555839
+    second: MilitaryEquipment_x4_4
+  - first:
+      213: -251934422651887237
+    second: MilitaryEquipment_x4_5
+  - first:
+      213: -599431835804824590
+    second: MilitaryEquipment_x4_6
+  - first:
+      213: -445156407413703380
+    second: MilitaryEquipment_x4_7
+  - first:
+      213: 4753304763221482951
+    second: MilitaryEquipment_x4_8
+  - first:
+      213: 7447041445304956424
+    second: MilitaryEquipment_x4_9
+  - first:
+      213: 2609618844191291756
+    second: MilitaryEquipment_x4_10
+  - first:
+      213: -27489541973548175
+    second: MilitaryEquipment_x4_11
+  - first:
+      213: -30050577874964962
+    second: MilitaryEquipment_x4_12
+  - first:
+      213: -208253734903919350
+    second: MilitaryEquipment_x4_13
+  - first:
+      213: -907562391083047099
+    second: MilitaryEquipment_x4_14
+  - first:
+      213: 798933633289122811
+    second: MilitaryEquipment_x4_15
+  - first:
+      213: 1552020934982759749
+    second: MilitaryEquipment_x4_16
+  - first:
+      213: 2455313431573976154
+    second: MilitaryEquipment_x4_17
+  - first:
+      213: 7678165303177633212
+    second: MilitaryEquipment_x4_18
+  - first:
+      213: -1838752469850481083
+    second: MilitaryEquipment_x4_19
+  - first:
+      213: -6833923250863600310
+    second: MilitaryEquipment_x4_20
+  - first:
+      213: 3444460096035896537
+    second: MilitaryEquipment_x4_21
+  - first:
+      213: -6632917445392457864
+    second: MilitaryEquipment_x4_22
+  - first:
+      213: 756323206162684728
+    second: MilitaryEquipment_x4_23
+  - first:
+      213: 2162621082398456359
+    second: MilitaryEquipment_x4_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MilitaryEquipment_x4_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 664
+        width: 45
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a9c2a9c5d15c3c0800000000000000
+      internalID: -4340030382340793728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilitaryEquipment_x4_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 572
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3872bcea22f95c70800000000000000
+      internalID: 8960459199803979836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilitaryEquipment_x4_2
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 572
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721a7a9df6977c2e0800000000000000
+      internalID: -2105580779472445145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilitaryEquipment_x4_3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 632
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55593baa90a4f7620800000000000000
+      internalID: 2774017300862571861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilitaryEquipment_x4_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 632
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe0773a35c808070800000000000000
+      internalID: 8106633620119555839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilitaryEquipment_x4_5
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 591
+        width: 94
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7124273af2f08cf0800000000000000
+      internalID: -251934422651887237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilitaryEquipment_x4_6
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 552
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb0bc7dbe36ea7f0800000000000000
+      internalID: -599431835804824590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilitaryEquipment_x4_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 551
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2dfd922b9c72d9f0800000000000000
+      internalID: -445156407413703380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilitaryEquipment_x4_8
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 536
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd1df08f7127f140800000000000000
+      internalID: 4753304763221482951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilitaryEquipment_x4_9
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 536
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80673070db4395760800000000000000
+      internalID: 7447041445304956424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilitaryEquipment_x4_10
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 536
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69ff2f238a373420800000000000000
+      internalID: 2609618844191291756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilitaryEquipment_x4_11
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 504
+        width: 200
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173e0af38665e9ff0800000000000000
+      internalID: -27489541973548175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilitaryEquipment_x4_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 476
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ea77c982d359ff0800000000000000
+      internalID: -30050577874964962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilitaryEquipment_x4_13
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 332
+        width: 45
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d47ebd4522c1df0800000000000000
+      internalID: -208253734903919350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilitaryEquipment_x4_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 428
+        width: 45
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547adf350d0b763f0800000000000000
+      internalID: -907562391083047099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilitaryEquipment_x4_15
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 440
+        width: 200
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf37f4318e1661b00800000000000000
+      internalID: 798933633289122811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilitaryEquipment_x4_16
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 368
+        width: 392
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545fd9141d2e98510800000000000000
+      internalID: 1552020934982759749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilitaryEquipment_x4_17
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 304
+        width: 392
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a545635ae86031220800000000000000
+      internalID: 2455313431573976154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilitaryEquipment_x4_18
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 200
+        width: 276
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdd1ae99a25e8a60800000000000000
+      internalID: 7678165303177633212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilitaryEquipment_x4_19
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 168
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e90bcee507b76e0800000000000000
+      internalID: -1838752469850481083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilitaryEquipment_x4_20
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 116
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d0ef1d2070921a0800000000000000
+      internalID: -6833923250863600310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilitaryEquipment_x4_21
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 118
+        width: 184
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc3a33353e2dcf20800000000000000
+      internalID: 3444460096035896537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilitaryEquipment_x4_22
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 92
+        width: 172
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f14e2e9b423f3a0800000000000000
+      internalID: -6632917445392457864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilitaryEquipment_x4_23
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 34
+        width: 184
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b16b6e2fffe7a00800000000000000
+      internalID: 756323206162684728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilitaryEquipment_x4_24
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 12
+        width: 172
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a71289a6c230e10800000000000000
+      internalID: 2162621082398456359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
